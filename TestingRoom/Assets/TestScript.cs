@@ -8,8 +8,11 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         print("this is here");
+<<<<<<< HEAD
         print("this should be here");
         print("new");
+=======
+>>>>>>> parent of 9f83e32... here
     }
 
     // Update is called once per frame
