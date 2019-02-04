@@ -9,6 +9,7 @@ public class TestScript : MonoBehaviour
     {
         print("this is here");
         print("this should be here");
+        print("new");
     }
 
     // Update is called once per frame
