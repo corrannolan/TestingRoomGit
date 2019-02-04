@@ -8,7 +8,6 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         print("this is here");
-        print("this will not be here");
     }
 
     // Update is called once per frame
