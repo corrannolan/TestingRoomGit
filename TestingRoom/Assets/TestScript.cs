@@ -9,8 +9,11 @@ public class TestScript : MonoBehaviour
     {
         print("this is here");
 <<<<<<< HEAD
+<<<<<<< HEAD
         print("this should be here");
         print("new");
+=======
+>>>>>>> parent of 9f83e32... here
 =======
 >>>>>>> parent of 9f83e32... here
     }
