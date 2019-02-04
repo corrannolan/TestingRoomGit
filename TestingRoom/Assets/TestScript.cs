@@ -17,6 +17,7 @@ public class TestScript : MonoBehaviour
 >>>>>>> parent of 9f83e32... here
 =======
 >>>>>>> parent of 9f83e32... here
+>>>>>>> parent of 9f83e32... here
     }
 
     // Update is called once per frame
