@@ -10,6 +10,7 @@ public class TestScript : MonoBehaviour
         print("this is here");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         print("this should be here");
         print("new");
 =======
